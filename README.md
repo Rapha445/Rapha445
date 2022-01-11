@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rapha445
+- 👀 I’m interested in outdoors!
+- 🌱 I’m currently learning CSS and JavaScript
+- 💞️ I’m looking to collaborate on beginners projects
+- 📫 How to reach me: DM me!
